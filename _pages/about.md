@@ -19,9 +19,7 @@ redirect_from:
 
 # 👤 About me
 
-I am a senior student in the [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), Shanghai Jiao Tong University.
-
-Now, as an incoming phd student, I am fortunate to be a part of [CoPhi](http://linyun.info/team.html) and advised by [Prof. Lin Yun](http://linyun.info/) in the Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+I am a first-year PhD student at Shanghai Jiao Tong University, fortunately to be a part of [CoPhi](http://linyun.info/team.html) and advised by [Prof. Lin Yun](http://linyun.info/) in the Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 
 Recently, I am working on program debugging and fault localization research. 
 
@@ -32,24 +30,16 @@ So far, my research interest includes:
 
 # 🔥 News
 - *Sept 2024*: &nbsp;🎉🎉 Glad to join Cophi.
+- *Sept 2025*: &nbsp;🎉🎉 One paper is accepted by APSEC 2025.
 
-<!--
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[TraceWalker: Synthesizing Interactive Debugging Progresses via Dataflow and Control-flow Inference](https://ieeexplore.ieee.org/abstract/document/11396485)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
+Yunrui Pei, Yuk Kwan Wong, **Chenyang Zhang**, Hongshu Wang, Wenjie Zhang, Yun Lin
 
 <!--
 # 🎖 Honors and Awards
@@ -57,7 +47,8 @@ So far, my research interest includes:
 -->
 
 # 📖 Educations
-- *Sept 2021 - Current*, Undergraduate, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University.s
+- *Sept 2025 - current*, Ph.D. in Electronic Information, Shanghai Jiao Tong University
+- *Sept 2021 - June 2025*, B.S., School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University
 
 <!--
 # 💬 Invited Talks
@@ -65,4 +56,5 @@ So far, my research interest includes:
 -->
 
 # 💻 Internships
+- *Spet 2024- current*, DDST, Shanghai Jiao Tong University, Shanghai.
 - *Jul 2024 - Aug 2024*, SAIL, Shanghai Jiao Tong University, Shanghai.
