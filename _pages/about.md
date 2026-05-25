@@ -34,9 +34,6 @@ So far, my research interest includes:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [TraceWalker: Synthesizing Interactive Debugging Progresses via Dataflow and Control-flow Inference](https://ieeexplore.ieee.org/abstract/document/11396485)
 
 Yunrui Pei, Yuk Kwan Wong, **Chenyang Zhang**, Hongshu Wang, Wenjie Zhang, Yun Lin
